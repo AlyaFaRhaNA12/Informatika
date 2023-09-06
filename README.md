@@ -1,2 +1,1 @@
 # Informatika
-Belajar html
